@@ -4,7 +4,7 @@
 <h2>A Few Quick Facts</h2>
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzI2NTdxejQ5NWUzcHlqYnQ2MHFscHM4eTd5eG4yb3E1Y21ncmZtayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R03zWv5p1oNSQd91EP/giphy.gif" height="245">
 <ul>
-<li> <img src="https://seeklogo.com/images/I/ivi-logo-DBB3F958F7-seeklogo.com.png" height="15" ></h2> I’m currently working as an Manual QA Engineer for Mobile Applications at <a href="https://sfera.zone/ru/"</li>
+<li> <img src="https://seeklogo.com/images/I/ivi-logo-DBB3F958F7-seeklogo.com.png" height="15" ></h2> I’m currently working as an Manual QA Engineer for Mobile Applications at <a href="https://play.google.com/store/apps/details?id=zone.sfera&hl=ru&gl=US"</li>
 <li> ✅ Finished <a href="https://drive.google.com/file/d/10N5MKSP-K_5IeKsgDkWmwopJ6JK5m3zn/view?usp=sharing">software testing course</a> </li>
 <li> ☕ Right now I am learning how to automate tests with Python</li>
 <li> 👨🏽‍🎓 Most of my study cases are available on <a href="https://github.com/KlimTester/Portfolio">Github</a></li> </li>
