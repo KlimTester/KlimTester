@@ -4,9 +4,8 @@
 <h2>A Few Quick Facts</h2>
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjQ2MzgxOGw1djM4Mm5pZGZsd3hjZnJ4bnIybjV5eG04enR1eWM5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" height="220">
 <ul>
-<li> 🎭 I’m currently working as a Manual QA Engineer for Mobile Application
+<li> 🎭 I’m currently working as a Junior QA Engineer
 <li> ✅ Finished <a href="https://drive.google.com/file/d/10N5MKSP-K_5IeKsgDkWmwopJ6JK5m3zn/view?usp=sharing">software testing course</a> </li>
-<li> ☕ Right now I am learning how to automate tests with Python</li>
 <li> 👨🏽‍🎓 Most of my study cases are available on <a href="https://github.com/KlimTester/Portfolio">Github</a></li> </li>
 <li> 📖 Learning Python with Selenium for Automation Testing  in my free time</li>
 <li> 📜 Check out my <a href="https://drive.google.com/file/d/1bogCQcAWMsbYa74ffVDjkaE4dALoxAml/view?usp=sharing">resume</a></li> 
