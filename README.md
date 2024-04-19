@@ -5,8 +5,8 @@
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjQ2MzgxOGw1djM4Mm5pZGZsd3hjZnJ4bnIybjV5eG04enR1eWM5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" height="200">
 <ul>
 <li> 🎭 I’m currently working as a Junior QA Engineer
-<li> ✅ Finished <a href="https://drive.google.com/file/d/1WVJruJh2QRrtLoARHtbprp_X8WGzrKnA/view?usp=sharing">Yandex Practicum "QA Engineer" </a> / 
- <a href="https://drive.google.com/file/d/1WVtzgmQHhGLxJlQnHMz_gRNTo6R4hi2g/view?usp=sharing">SkyPro "Test Engineer" </a> </li>
+<li> ✅ Finished <a href="https://drive.google.com/file/d/1WVJruJh2QRrtLoARHtbprp_X8WGzrKnA/view?usp=sharing">Yandex Practicum "QA Engineer" </a>  
+   /  <a href="https://drive.google.com/file/d/1WVtzgmQHhGLxJlQnHMz_gRNTo6R4hi2g/view?usp=sharing">SkyPro "Test Engineer" </a> </li>
 <li> 👨🏽‍🎓 Most of my study cases are available on <a href="https://github.com/KlimTester/Portfolio">Github</a></li> </li>
 <li> 📖 Learning Python with Selenium for Automation Testing  in my free time</li>
 <li> 📜 Check out my <a href="https://drive.google.com/file/d/1bogCQcAWMsbYa74ffVDjkaE4dALoxAml/view?usp=sharing">resume</a></li> 
