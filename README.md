@@ -9,7 +9,7 @@
 <a href="https://drive.google.com/file/d/1WVtzgmQHhGLxJlQnHMz_gRNTo6R4hi2g/view?usp=sharing">SkyPro "Test Engineer" </a> </li>
 <li> 👨🏽‍🎓 Most of my study cases are available on <a href="https://github.com/KlimTester/Portfolio">Github</a></li> </li>
 <li> 📖 Learning Python with Selenium for Automation Testing  in my free time</li>
-<li> 📜 Check out my <a href="https://drive.google.com/file/d/1bogCQcAWMsbYa74ffVDjkaE4dALoxAml/view?usp=sharing">resume</a></li> 
+<li> 📜 Check out my <a href="https://drive.google.com/file/d/1pf1mV71uIKLfJOB8XADzEOyouD1UrUut/view?usp=sharing">resume</a></li> 
 <li> 🤼‍♂️ Random fact about me: I love Jiu-Jitsu, Wrestling</li>
 </ul>
 <h2>Some Tools I Use</h2>
